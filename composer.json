@@ -1,5 +1,5 @@
 {
-    "name": "yup/user-action",
+    "name": "yupaker/user-action",
     "description": "this is a test.",
     "type": "library",
     "require": {
