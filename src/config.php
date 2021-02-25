@@ -7,6 +7,7 @@ namespace Uaction;
 class config
 {
     protected $spm;
+    protected $a,$b,$c;
 
     public function getSpm()
     {
