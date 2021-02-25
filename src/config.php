@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Guanguans;
+namespace Uaction;
 
 
 class config
