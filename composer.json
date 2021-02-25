@@ -1,0 +1,23 @@
+{
+    "name": "yup/user-action",
+    "description": "this is a test.",
+    "type": "library",
+    "require": {
+        "php": "7.*"
+    },
+    "require-dev": {
+        "php": "7.*"
+    },
+    "authors": [
+        {
+            "name": "mengjiang",
+            "email": "838764236@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}
